@@ -1,0 +1,11 @@
+{
+    "homes":[
+        {
+            "name": "David Heidari",
+            "position": "VD",
+            "description": "Moda.se is a cutting-edge fashion destination that seamlessly blends style, quality, and innovation. As the CEO of this forward-thinking apparel company, our mission is to empower individuals to express their unique identity through our diverse and trendsetting collections. With a commitment to sustainability and a keen eye for the latest fashion trends, Moda.se is not just a brand; it's a lifestyle that transcends boundaries and redefines the essence of modern elegance.",
+            "experience": "As Moda.se's CEO, I've steered the success of TrendCrafters, a pioneering fashion conglomerate known for groundbreaking collaborations. My leadership at ChicTrends International, a globally acclaimed brand synonymous with elegance, further enriches my experience, positioning me to guide Moda.se to new heights in the dynamic fashion industry. With a diverse background, I bring a strategic vision to propel Moda.se as a trendsetting force in the ever-evolving world of fashion.",
+            "profilePicture": "../assets/vd.jpg"
+        }
+    ]
+}
