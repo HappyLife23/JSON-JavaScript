@@ -11,10 +11,6 @@ html {
 .container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  background-color: lemonchiffon;
-  border: 1px solid;
-  width: 100%;
-  height: 100vh;
 }
 
 nav {
@@ -25,15 +21,8 @@ nav {
   padding: 1rem;
   background-color: lightblue;
 }
-.nav-home,
-.nav-contact {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  list-style-type: none;
-}
-.nav-home a,
-.nav-contact a {
+
+ul {
   list-style: none;
 }
 
@@ -58,4 +47,14 @@ img {
 }
 p {
   line-height: 25px;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+footer {
+  grid-column: 1 / span 4;
+  background-color: gray;
+  padding: 1rem 0;
 }

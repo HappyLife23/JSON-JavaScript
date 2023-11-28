@@ -6,9 +6,7 @@ async function home() {
     if (response.ok) {
         const jsonContent = await response.json();
         homeContent(jsonContent);
-
-        
-
+       
     } else {
         console.group('Error' + response.status)
     }
